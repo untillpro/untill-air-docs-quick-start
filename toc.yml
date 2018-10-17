@@ -5,8 +5,8 @@ pages:
     uri: 'doc2.md'
   - name: 'Document #3'
     uri: 'doc3.md'
-  - name: 'Document #4'
-    uri: 'doc4.md'
+  - name: 'Document #6'
+    uri: 'doc6.md'
   - name: 'folder 1'
     pages:
       - name: 'Document #4'
