@@ -1,15 +1,16 @@
 ## Overview
 
-**unTill Air** is a super new generation of unTill product family
+**unTill Air** is a new generation of unTill product family. Welcome to a lightweight, easy-to-manage, and universal app for any type of catering.
 
-- List item1
-- List item2
-- List item3
-- List item4
+Steps to start: 
+
+- Create your account
+- Download the app
+- Sign in
+- Connect your tablet
+- Ready to go!
 
 
-**Markdown** is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats using a tool by the same name.[3](doc2.md) Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. As the initial description of Markdown contained ambiguities and unanswered questions, many implementations and extensions of Markdown appeared over the years to answer these issues. 
+![preview1](https://raw.githubusercontent.com/Annabelya/untill-air-docs-quick-start/master/preview1.jpg)
 
-
-https://github.com/untillpro/igoclapp/
-https://api.github.com/repos/untillpro/igoclapp/tags
+*For more info please click the next section of contents on your left.*
